@@ -102,8 +102,10 @@ app.post('/check',(req,res)=>{
     res.render('result.ejs',{result:result});
 });
 
-var server = app.listen(8080,(err)=>
+var server = app.listen(process.env.PORT || 8080,function()
 {
-    if(err) throw err;
-    console.log("server started");
-});
+    var host = server.address().address;
+    var port = server.address().port;
+
+    console.log("Example app listening at http://%s:%s",host,port);
+})
