@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/resultstyle.css">
+    <title>Result</title>
+</head>
+
+<body>
+    <div>
+        <h1 id="score">You got <%= result.Score%> out of <%= result.outof%></h1>
+        <h1 id="performance">"<%= result.Performance%>"</h1>
+    </div>
+    <% if(result.Score<=result.outof/4){%>
+    <style>
+        #performance{
+            background-color: red;
+        }
+    </style>
+    <%}%>
+    <%if(result.Score<=result.outof&&result.score>=result.outof-5){%>
+        <style>
+            div{
+                background-color: rgb(0, 250, 0);
+            }
+        </style>
+    <% }%>
+
+    <a href="/"> Retake</a>
+</body>
+</html>

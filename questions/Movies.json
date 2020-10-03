@@ -1,0 +1,305 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which was the first of Alfred Hitchcock's movies to be filmed in colour?",
+        "correct_answer": "Rope",
+        "incorrect_answers": [
+          "Psycho",
+          "Vertigo",
+          "Rebecca"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the last Marx Brothers film to feature Zeppo?",
+        "correct_answer": "Duck Soup",
+        "incorrect_answers": [
+          "A Night at the Opera",
+          "A Day at the Races",
+          "Monkey Business"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the film 'Interstellar', how long did they spend on Miller's planet?",
+        "correct_answer": "23 years, 4 months, and 8 days",
+        "incorrect_answers": [
+          "15 years, 2 months, and 15 days",
+          "10 months and 6 days",
+          "26 years, 4 months, and 10 days"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "2",
+          "6",
+          "1"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What did Alfred Hitchcock use as blood in the film 'Psycho'? ",
+        "correct_answer": "Chocolate syrup",
+        "incorrect_answers": [
+          "Ketchup",
+          "Red food coloring",
+          "Maple syrup"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the assassin in the first 'Hellboy' movie?",
+        "correct_answer": "Karl Ruprecht Kroenen",
+        "incorrect_answers": [
+          "Klaus Werner von Krupt",
+          "Grigori Efimovich Rasputin",
+          "Ilsa Haupstein"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What did the first moving picture depict?",
+        "correct_answer": "A galloping horse",
+        "incorrect_answers": [
+          "A woman in a dress",
+          "A man walking",
+          "A crackling fire"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In what Disney movie can you spot the character 'Pac-Man' in if you look closely enough in some scenes?",
+        "correct_answer": "Tron",
+        "incorrect_answers": [
+          "Big Hero 6",
+          "Fantasia",
+          "Monsters, Inc."
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the movie 'Scream' who is Ghost Face?",
+        "correct_answer": "Billy Loomis and Stu Macher",
+        "incorrect_answers": [
+          "Dewey Riley",
+          "Sidney Prescott",
+          "Archie Prescott and Philip Marv"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+        "correct_answer": "Beer",
+        "incorrect_answers": [
+          "Fast food",
+          "Food stamps",
+          "They weren't paid"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film 'Dirty Harry'?",
+        "correct_answer": "1971",
+        "incorrect_answers": [
+          "1975",
+          "1983",
+          "1969"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "According to 'Star Wars' lore, which planet does Obi-Wan Kenobi come from?",
+        "correct_answer": "Stewjon",
+        "incorrect_answers": [
+          "Alderaan",
+          "Tatooine",
+          "Naboo"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In what year does Jurassic World open in the 'Jurassic Park' universe?",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+          "2007",
+          "2015",
+          "2020"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the supercomputer located in the control room in 'Jurassic Park' (1993)?",
+        "correct_answer": "Thinking Machines CM-5",
+        "incorrect_answers": [
+          "Cray X-MP",
+          "Cray XK7",
+          "IBM Blue Gene/Q"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the 'Jurassic Park' universe, what was the first dinosaur cloned by InGen in 1986?",
+        "correct_answer": "Velociraptor",
+        "incorrect_answers": [
+          "Triceratops",
+          "Troodon",
+          "Brachiosaurus"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the 'Jurassic Park' universe, when did 'Jurassic Park: San Diego' begin construction?",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+          "1988",
+          "1986",
+          "1993"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which actors made up the trio in 'The Good, the Bad, and the Ugly'? ",
+        "correct_answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+        "incorrect_answers": [
+          "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+          "Yul Brynner, Steve McQueen, and Charles Bronson",
+          "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
+        "correct_answer": "Sigourney Weaver",
+        "incorrect_answers": [
+          "Jessica Chastain",
+          "Melissa Beckett",
+          "Alyssa Monroe "
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+        "correct_answer": "Dave",
+        "incorrect_answers": [
+          "John",
+          "Will",
+          "Carl"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Big Hero 6, what were Baymax's motions modeled after?",
+        "correct_answer": "Baby penguins",
+        "incorrect_answers": [
+          "Baby monkeys",
+          "Baby ostriches",
+          "Baby bears"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the Friday The 13th series, what year did Jason drown in?",
+        "correct_answer": "1957",
+        "incorrect_answers": [
+          "1955",
+          "1953",
+          "1959"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+        "correct_answer": "Plan 9 from Outer Space",
+        "incorrect_answers": [
+          "The Man from Planet X",
+          "It Came from Outer Space",
+          "The Day The Earth Stood Still"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+        "correct_answer": "Bombardier Billy Wells",
+        "incorrect_answers": [
+          "Freddie Mills",
+          "Terry Spinks",
+          "Don Cockell"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was Humphrey Bogart's middle name?",
+        "correct_answer": "DeForest",
+        "incorrect_answers": [
+          "DeWinter",
+          "Steven",
+          "Bryce"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the film 'Harry Potter and the Order of The Phoenix', why was Harry Potter's scream, after Sirius Black died, muted?",
+        "correct_answer": "Too Agonizing",
+        "incorrect_answers": [
+          "Too Loud",
+          "Too Harsh",
+          "Too Violent"
+        ]
+      }
+    ]
+  }

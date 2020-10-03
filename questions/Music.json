@@ -1,0 +1,305 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who recorded the 1975 album 'Captain Fantastic and the Brown Dirt Cowboy'?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": [
+          "John Denver",
+          "Billy Joel",
+          "Joe Cocker"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the last Aphex Twin album released before his decade-long hiatus?",
+        "correct_answer": "Drukqs",
+        "incorrect_answers": [
+          "Windowlicker",
+          "Syro",
+          "Collected Ambient Works 85-92"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which member of the English band 'The xx' released their solo album 'In Colour' in 2015?",
+        "correct_answer": "Jamie xx",
+        "incorrect_answers": [
+          "Romy Madley Croft",
+          "Oliver Sim",
+          "Baria Qureshi"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which song in rapper Kanye West's album 'The Life of Pablo' features Rihanna?",
+        "correct_answer": "Famous",
+        "incorrect_answers": [
+          "Wolves",
+          "Ultralight Beam",
+          "Highlights"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many members are there in the idol group '&micro;'s'?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "48",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
+        "correct_answer": "Entra&ntilde;as",
+        "incorrect_answers": [
+          "&amp;&amp;&amp;&amp;&amp;&amp;",
+          "Sheep",
+          "Xen"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the British term for a 64th note?",
+        "correct_answer": "Hemidemisemiquaver",
+        "incorrect_answers": [
+          "Semihemidemisemiquaver",
+          "Semiquaver",
+          "Demisemiquaver"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which band is the longest active band in the world with no breaks or line-up changes?",
+        "correct_answer": "U2",
+        "incorrect_answers": [
+          "Radiohead",
+          "Rush",
+          "Rolling Stones"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+        "correct_answer": "Left Alone",
+        "incorrect_answers": [
+          "What About Us",
+          "This Song Is Not About A Girl",
+          "Drop The Game"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+        "correct_answer": "Limitless Fury",
+        "incorrect_answers": [
+          "Let The Sparks Fly",
+          "Down",
+          "Give Up The Ghost"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the English title of the vaporwave track 'リサフランク420 / 現代のコンピュー' by Macintosh Plus (Vektroid)?",
+        "correct_answer": "Lisa Frank 420 / Modern Computing",
+        "incorrect_answers": [
+          "Smoke Weed 420 / Everyday",
+          "Make Your Move 420 / My Mind",
+          "It's All In Your Head 420 / Understand"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What year was Huun Huur Tu's album Altai Sayan Tandy-Uula released? ",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "1993",
+          "2006",
+          "2010"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these songs is NOT included in the Suicide Squad OST?",
+        "correct_answer": "Skies on Fire - AC/DC",
+        "incorrect_answers": [
+          "Heathens - Twenty One Pilots",
+          "Without Me - Eminem",
+          "Fortunate Son - Creedence Clearwater Revival"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which company did the animation for Peter Gabriel's Video Sledgehammer (1986)?",
+        "correct_answer": "Aardman Animations",
+        "incorrect_answers": [
+          "HIT Entertainment",
+          "Illumination Entertainment",
+          "VIZ Media"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What year was Min Yoongi from South Korea boy band 'BTS' born in?",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+          "1992",
+          "1995",
+          "1994"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+        "correct_answer": "Dog Blood",
+        "incorrect_answers": [
+          "Jack &Uuml;",
+          "What So Not",
+          "Noisia"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
+        "correct_answer": "Viktor Tsoi",
+        "incorrect_answers": [
+          "Jimi Hendrix",
+          "Brian Jones",
+          "Vladimir Vysotsky"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Bj&ouml;rk's 'Unison' contains a sample of which Oval song?",
+        "correct_answer": "Aero Deck",
+        "incorrect_answers": [
+          "Textuell",
+          "Panorama",
+          "Do While"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+        "correct_answer": "The Black Mages",
+        "incorrect_answers": [
+          "The Final Fantasies",
+          "The Espers",
+          "The Rock Summoners"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Chino Moreno is the lead singer of which alternative metal band?",
+        "correct_answer": "Deftones",
+        "incorrect_answers": [
+          "Tool",
+          "Korn",
+          "Type O Negative"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Pamina and Papageno are characters in what Mozart opera?",
+        "correct_answer": "The Magic Flute",
+        "incorrect_answers": [
+          "The Marriage of Figaro",
+          "The Impresario",
+          "The Goose of Cairo"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Artis Leon Ivey Jr. is better known as which rap artist?",
+        "correct_answer": "Coolio",
+        "incorrect_answers": [
+          "Dr Dre",
+          "Snoop Dogg",
+          "Ice T"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+        "correct_answer": "Snare Drum",
+        "incorrect_answers": [
+          "Cow Bell",
+          "Bass Drum",
+          "Maraca"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who sings the rap song 'Secret Wars Part 1'?",
+        "correct_answer": "The Last Emperor",
+        "incorrect_answers": [
+          "MC Frontalot",
+          "Busdriver",
+          "Masta Killa"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+        "correct_answer": "Masta Killa",
+        "incorrect_answers": [
+          "Method Man",
+          "Inspectah Deck",
+          "GZA"
+        ]
+      }
+    ]
+  }

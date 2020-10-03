@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>quiz</title>
+</head>
+<body style="background: url(<%=q[0].url%>);">
+    <div id="nav">
+    <h1>Quiz</h1>
+    </div>
+    <div>
+        <form action="/check" method="POST">
+        <% for(let i=0;i<q.length;i++){%>
+        <div id="card">
+
+
+            <label id="question" class=<%=q[i].index%> ><%=q[i].index%>  <%=q[i].question %></label> <br>
+            <% for(let j=0;j<q[i].options.length;j++){%>
+            <label class="container" for="<%= q[i].options[j]+i %>"><%= q[i].options[j] %>    
+                <input id="<%= q[i].options[j]+i %>" type="radio"  name=<%= q[i].index%> value="<%= q[i].options[j]%>" >
+                <span class="checkmark" ></span><br>
+            </label>
+
+
+            <%}%>
+        </div>
+        <%}%>
+        <div id="button">
+        <input type="submit">
+        </div>
+        </form> 
+    </div>
+</body>
+</html>
